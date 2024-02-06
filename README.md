@@ -1,10 +1,9 @@
-![image](https://github.com/Drlaravel/drlaravel/assets/137484894/905d4183-e34e-4f1d-a85f-16299a2463e7)Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jaber hashempour
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jaber hashempour
 ========================================================================================================================================
 
 Web developer And Designer
 --------------------------
 
-![image](https://bayanbox.ir/view/1353559592827697052/programmer.gif)
 
 a passionate computer engineer with 4 years of hands-on experience in web application development, currently thriving as a full-stack developer. I thrive on challenges, constantly seeking opportunities for research and development. My curiosity drives me to solve problems creatively and patiently, always aiming for improvement. I find energy in creating, changing, and enhancing. I am dedicated to being effective and continuously improving, striving to be better than yesterday.
 
