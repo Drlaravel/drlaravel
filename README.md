@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer And Designer
 --------------------------
 
+![](https://bayanbox.ir/view/1353559592827697052/programmer.gif)
 
 a passionate computer engineer with 4 years of hands-on experience in web application development, currently thriving as a full-stack developer. I thrive on challenges, constantly seeking opportunities for research and development. My curiosity drives me to solve problems creatively and patiently, always aiming for improvement. I find energy in creating, changing, and enhancing. I am dedicated to being effective and continuously improving, striving to be better than yesterday.
 
