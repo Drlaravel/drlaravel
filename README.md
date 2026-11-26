@@ -61,8 +61,7 @@
 
 ### تازه‌ترین نوشته‌ها
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->- [مقاومت در برابر تغییر؟ شاید مشکل از طراحی تغییر است](https://mohsenhashempour.ir/insights/change-management-resistance-or-poor-design) — 2026/11/26- [چرا پروژه‌های تحول دیجیتال در سازمان‌های سنتی بیشتر به فرایند گیر می‌کنند تا فناوری؟](https://mohsenhashempour.ir/insights/why-digital-transformation-stalls-on-process-not-technology) — 2026/11/25- [وقتی دو واحد سازمان دو اولویت متضاد دارند: چارچوبی برای حل تعارض در محصول](https://mohsenhashempour.ir/insights/resolving-conflicting-priorities-product-stakeholders) — 2026/11/24- [مدیر محصول وقتی نمی‌داند: چطور بدون وانمود کردن، با تیم فنی تصمیم بگیریم](https://mohsenhashempour.ir/insights/product-manager-technical-decisions-without-pretending) — 2026/11/23- [تصمیم برگشت‌پذیر یا برگشت‌ناپذیر؟ یک پرسش ساده برای سرعت دادن به تصمیم‌های محصول](https://mohsenhashempour.ir/insights/reversible-vs-irreversible-product-decisions) — 2026/11/22<!-- BLOG-POST-LIST:END -->
 
 [همه‌ی نوشته‌ها ←](https://mohsenhashempour.ir/insights) · [ابزارها و واژه‌نامه‌ی رایگان ←](https://mohsenhashempour.ir/tools)
 
